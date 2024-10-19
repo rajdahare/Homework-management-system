@@ -4,9 +4,18 @@ where all user can register and see there activity.
 
 the admin can assigend then task.
 
-<img width="657" alt="Screenshot 2024-10-19 135712" src="https://github.com/user-attachments/assets/64e2e33f-5334-4a7b-9163-81e85448919b">
+all CRUD operation are perform in this project, creat, read, update, delete and search, filter.
 
 
-<img width="882" alt="Screenshot 2024-10-19 135759" src="https://github.com/user-attachments/assets/43cd247b-dad0-407d-9b18-c2a53422c98a">
+![Screenshot 2024-10-19 150350](https://github.com/user-attachments/assets/048b6a43-f763-49f5-91ee-355eb7f7d01c)
+
+
+
+<img width="353" alt="Screenshot 2024-10-19 150505645744" src="https://github.com/user-attachments/assets/d275af33-eb1c-4f3b-8107-7b317035adb5">
+
+
+
+
+
 
 
